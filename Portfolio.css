@@ -10,7 +10,8 @@
 
 
 .jumbotron {
-	background: url(https://images.unsplash.com/photo-1471086569966-db3eebc25a59?);
+	/*background: url(https://images.unsplash.com/photo-1471086569966-db3eebc25a59?);*/
+	background: url(http://gdurl.com/5avw);
 	background-size: cover;
 	background-position: center;
 	max-width: 100%;
@@ -77,4 +78,13 @@ hr {
 	
 }
 
+.btn btn-default {
+	padding-bottom: 20px;
+}
 
+.footer {
+	text-align: center;
+	font-family: "Tangerine", cursive;
+	font-size: 2em;
+	padding-top: 20px;
+}
